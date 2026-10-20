@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+
+# Telegram Cloud private credentials & state
+.tgcloud/
+
+# Logs & Environment files
+*.log
+.env
+.env.*
+credentials*
+.DS_Store
